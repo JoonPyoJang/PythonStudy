@@ -71,7 +71,7 @@
      <string>매도금액</string>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEditBuy">
+   <widget class="QTextEdit" name="textEditPrice">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -81,7 +81,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEditPrice">
+   <widget class="QTextEdit" name="textEditBuy">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -101,7 +101,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButtonBuy">
+   <widget class="QPushButton" name="pushButtonPrice">
     <property name="geometry">
      <rect>
       <x>484</x>
@@ -114,7 +114,7 @@
      <string>조회</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButtonPrice">
+   <widget class="QPushButton" name="pushButtonBuy">
     <property name="geometry">
      <rect>
       <x>490</x>
